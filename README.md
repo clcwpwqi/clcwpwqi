@@ -3,6 +3,7 @@
 <!--
 **clcwpwqi/clcwpwqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+新手开发者，正在学习C++,SHELL语言
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
