@@ -71,6 +71,9 @@
 - **个人博客:** [clc'blog](https://clcwpwqi.github.io)
 ---
 
+### 支持我 | support me
+- **爱发电** [clcwpwqi](https://ifdian.net/a/clcwpwqi)
+
 ##  💾 项目 | Projects
 
 <div align="center">
