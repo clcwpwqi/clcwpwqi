@@ -62,7 +62,7 @@
 
 #### 国内平台 / China
 - **酷安:** [@clcwpwqi](https://www.coolapk.com/u/clcwpwqi)
-- **Bilibili:** [clcwpwqi 的个人空间](https://space.bilibili.com/clcwpwqi)
+- **Bilibili:** [clcwpwqi 的个人空间](https://space.bilibili.com/1723367769)
 - **微信公众号:** 搜索 `clcwpwqi`
 - **Gitee:** [@clcwpwqi](https://gitee.com/clcwpwqi)
 - **CSDN:** [@clcwpwqi](https://blog.csdn.net/clcwpwqi)
@@ -83,6 +83,6 @@
 | **[CMS-2026](https://github.com/clcwpwqi/cms-2026)** | 简单的加解密算法 | Shell` `HTML` |
 | **[GKI_KernelSU_SUSFS](https://github.com/clcwpwqi/GKI_KernelSU_SUSFS)** | 带有ksu和susfs内核编译 | Shell` |
 
-> 🔗 *更多项目请浏览 [Repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)*
+> 🔗 *更多项目请浏览 [Repositories](https://github.com/clcwpwqi?tab=repositories)*
 
 </div>
