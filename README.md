@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠 技术栈 | Tech Stack
+### 技术栈 | Tech Stack
 
 <div align="center">
   <!-- Languages -->
@@ -28,7 +28,7 @@
 
 ---
 
-### 💻 装备清单 | Workspace & Gear
+### 装备清单 | Workspace & Gear
 
 | 类别 | 设备名称 | 系统环境 |
 | :--- | :--- | :--- |
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub 统计 | Stats
+### GitHub 统计 | Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clcwpwqi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -52,7 +52,7 @@
   </picture>
 </div>
 
-### 🤝 联系我 | Connect with Me
+### 联系我 | Connect with Me
 
 #### 国际平台 / Global
 - **Email:** <a href="mailto:clcwpwqi@outlook.com">`clcwpwqi@outlook.com`</a>
@@ -74,7 +74,7 @@
 ### 支持我 | support me
 - **爱发电** [clcwpwqi](https://ifdian.net/a/clcwpwqi)
 
-###  💾 项目 | Projects
+###  项目 | Projects
 
 <div align="center">
 
