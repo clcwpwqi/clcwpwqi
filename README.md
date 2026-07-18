@@ -74,7 +74,7 @@
 ### 支持我 | support me
 - **爱发电** [clcwpwqi](https://ifdian.net/a/clcwpwqi)
 
-##  💾 项目 | Projects
+###  💾 项目 | Projects
 
 <div align="center">
 
@@ -86,3 +86,25 @@
 > 🔗 *更多项目请浏览 [Repositories](https://github.com/clcwpwqi?tab=repositories)*
 
 </div>
+
+### 签名校验
+- 这里提供clcwpwqi签名证书的sha256和md5，若您的apk签名与此处提供的不一致，安装包可能已被篡改，请勿安装使用
+---
+#### 签名1
+- SHA256
+```
+C9:50:66:61:5E:0F:5B:71:E5:7F:90:4E:5E:65:93:38:D0:88:12:95:78:81:44:BA:BC:1A:1A:1B:8F:13:57:94
+```
+- MD5
+```
+9C:E2:E6:F1:E8:89:7C:10:08:48:0D:EC:18:D6:6C:2E
+```
+#### 签名2
+- SHA256 
+```
+29:A9:81:58:CD:F3:65:DA:BE:80:48:04:D1:D5:D8:26:B9:79:9F:25:8F:A2:41:51:3D:80:88:0E:20:CD:69:C2
+```
+- MD5 
+```
+70:49:C4:3A:E6:D8:39:74:12:17:02:86:0B:D1:C2:F2
+```
